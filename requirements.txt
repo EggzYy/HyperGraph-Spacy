@@ -1,0 +1,12 @@
+spacy>=3.0
+scispacy>=0.5.0
+medspacy>=0.4.0
+networkx>=2.5
+hypernetx>=2.0.0
+matplotlib>=3.0
+# Optional: for Jupyter notebook support
+jupyter
+# Optional: for improved visualization
+seaborn
+# Optional: for UMLS linking (if needed)
+umls-downloader

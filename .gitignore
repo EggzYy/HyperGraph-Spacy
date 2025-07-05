@@ -1,0 +1,15 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.gpickle
+*.png
+*.json
+*.tsv
+*.log
+results/
+.env
+.DS_Store
+.idea/
+.vscode/
