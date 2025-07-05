@@ -5,10 +5,7 @@ __pycache__/
 *.pyd
 *.gpickle
 *.png
-*.json
-*.tsv
 *.log
-results/
 .env
 .DS_Store
 .idea/
